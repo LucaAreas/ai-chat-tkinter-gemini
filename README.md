@@ -35,17 +35,6 @@ a meeting point between what we are and what we create.
 
 ---
 
-## 💻 Project Structure
-
-ai-chat-tkinter-gemini/
-│
-├── main.py # Main chat script
-├── requirements.txt # Dependencies
-├── README.md # This file :)
-└── assets/ # (optional) Icons, images, etc.
-
----
-
 ## 💬 Example Usage
 
 Type something like:
