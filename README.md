@@ -45,8 +45,9 @@ And the AI might reply:
 
 > Perhaps consciousness is the mirror of the mind — the part that knows it’s alive.
 
-> Here is a preview:
-[example.webm](https://github.com/user-attachments/assets/37ffd177-344f-4dd1-aa4c-e1d7bc381824)
+Here is a preview:
+
+https://github.com/user-attachments/assets/37ffd177-344f-4dd1-aa4c-e1d7bc381824
 
 ---
 
