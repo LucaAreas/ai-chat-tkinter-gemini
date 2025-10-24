@@ -51,6 +51,12 @@ https://github.com/user-attachments/assets/37ffd177-344f-4dd1-aa4c-e1d7bc381824
 
 ---
 
+## 💻 Project Structure
+
+<img width="280" height="153" alt="image" src="https://github.com/user-attachments/assets/ad6b9d78-fef7-45ea-9403-b9144efed5dc" />
+
+---
+
 ## ⚠️ Important Note
 
 🚫 **Never expose your API Key** in public repositories.  
