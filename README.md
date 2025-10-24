@@ -67,7 +67,7 @@ Use environment variables or `.env` files that are ignored by Git.
 ## 🧩 Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/ai-chat-tkinter-gemini.git
+   git clone https://github.com/LucaAreas/ai-chat-tkinter-gemini.git
    cd ai-chat-tkinter-gemini
 
 2. Install dependencies:
